@@ -160,7 +160,11 @@ We can run with `$ gulp` or use `$ npm start` if we set that up with `scripts` i
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+<<<<<<< HEAD:cms/wordpress/javascript/zach/task-runners/gulp/04-watch-livereload.md
   "script":{
+=======
+  "scripts": {
+>>>>>>> 1f8a4c8bdfd9605cb06e0ca71c98cab53f830426:development/tools/task-runners/zach-master-js-wp-class/gulp/04-watch-livereload.md
     "start": "gulp"
   },
   "keywords": [],
